@@ -1,0 +1,7 @@
+.todoList{
+    padding: 10px;
+    background-color: lightcyan;
+    color: darkcyan;
+    border-radius: 10px;
+    list-style-type:none;
+}
